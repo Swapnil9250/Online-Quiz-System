@@ -1,9 +1,20 @@
-# Online-Quiz-System
-description:
-     This project will help faculty to manage the student quizzes records. Faculty can also monitor if the student already has taken the quiz and how many students have already taken the quiz.
-Faculty can create questions as much as he/she wants and answerable by choosing four options. Quizzes are restricted to the selected students who are listed by the faculty.
+# Online-Exam-System-
+Online examination system is a app for setup online quiz with so many functionality.
+It is a PHP project.
 
-The student can immediately know his/her score after submitting the quiz and also can review their answer sheet to know which question they answered wrong and right.
 
-Technology Used: HTMl, CSS, Javascript, PHP.
-Database : MYSQL
+Instalation ::
+
+step 1)Copy full folder in your web directory.
+
+2)Import database in your phpmyadmin named project.sql.
+
+3)Edit dbconnection file.change username,password and database name.Default user is root,password is null and database name is project.
+
+Default admin emailid is sunnygkp10@gmail.com and password is 123456 .
+admin password is md5 encypted.
+
+For any query or feedback contact me at sunnygkp10@gmail.com.
+
+Thanx.
+
